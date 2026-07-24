@@ -3,5 +3,9 @@
 </h3>
 
 <p align="center">
-  Lua : Java : C++
+  Lua Developer
 </p>
+
+<div align="center">
+  <a href="https://youtube.com/@shelzy1337">YouTube</a>
+</div>
