@@ -5,7 +5,3 @@
 <p align="center">
   Lua Developer
 </p>
-
-<div align="center">
-  <a href="https://youtube.com/@shelzy1337">YouTube</a>
-</div>
